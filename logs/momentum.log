@@ -1,0 +1,473 @@
+2026-09-20 18:04:51 | INFO     | momentum.database.db_manager | Connected to database at /home/claude/momentum/data/momentum.db
+2026-09-20 18:04:51 | INFO     | momentum.database.db_manager | Schema initialized/verified.
+2026-09-20 18:04:51 | INFO     | momentum.test | DB init OK
+2026-09-20 18:04:51 | INFO     | momentum.services.habit_service | Seeded default habits from config.
+2026-09-20 18:04:51 | INFO     | momentum.services.routine_service | Seeded default routine items from config.
+2026-09-20 18:05:00 | INFO     | momentum.database.db_manager | Connected to database at /home/claude/momentum/data/momentum.db
+2026-09-20 18:05:00 | INFO     | momentum.database.db_manager | Schema initialized/verified.
+2026-09-20 18:05:00 | INFO     | momentum.services.habit_service | Habit 1 marked complete for 2026-09-20
+2026-09-20 18:05:00 | INFO     | momentum.services.habit_service | Habit 1 marked incomplete for 2026-09-20
+2026-09-20 18:05:03 | INFO     | momentum.database.db_manager | Connected to database at /home/claude/momentum/data/momentum.db
+2026-09-20 18:05:03 | INFO     | momentum.database.db_manager | Schema initialized/verified.
+2026-09-20 18:05:03 | INFO     | momentum.services.routine_service | Routine item 1 marked complete for 2026-09-20
+2026-09-20 18:05:03 | INFO     | momentum.services.routine_service | Routine item 1 marked incomplete for 2026-09-20
+2026-09-20 18:05:08 | INFO     | momentum.database.db_manager | Connected to database at /home/claude/momentum/data/momentum.db
+2026-09-20 18:05:08 | INFO     | momentum.database.db_manager | Schema initialized/verified.
+2026-09-20 18:05:08 | INFO     | momentum.services.habit_service | Habit 1 marked complete for 2026-09-20
+2026-09-20 18:05:08 | INFO     | momentum.controllers.dashboard_controller | Awarded 15 XP for habit 1
+2026-09-20 18:05:08 | INFO     | momentum.services.habit_service | Habit 1 marked incomplete for 2026-09-20
+2026-09-20 18:05:08 | INFO     | momentum.controllers.dashboard_controller | Removed 15 XP for habit 1
+2026-09-20 18:05:25 | INFO     | momentum.database.db_manager | Connected to database at /home/claude/momentum/data/momentum.db
+2026-09-20 18:05:25 | INFO     | momentum.database.db_manager | Schema initialized/verified.
+2026-09-20 18:05:25 | INFO     | momentum.views.dashboard_view | DashboardView initialized.
+2026-09-20 18:05:32 | INFO     | momentum.database.db_manager | Connected to database at /home/claude/momentum/data/momentum.db
+2026-09-20 18:05:32 | INFO     | momentum.database.db_manager | Schema initialized/verified.
+2026-09-20 18:05:33 | INFO     | momentum.views.dashboard_view | DashboardView initialized.
+2026-09-20 18:05:33 | INFO     | momentum.views.main_window | Navigated to page: dashboard
+2026-09-20 18:05:33 | INFO     | momentum.views.main_window | MainWindow initialized.
+2026-09-20 18:05:33 | INFO     | momentum.views.dashboard_view | DashboardView initialized.
+2026-09-20 18:05:33 | INFO     | momentum.views.main_window | Navigated to page: dashboard
+2026-09-20 18:05:33 | INFO     | momentum.views.main_window | Navigated to page: routine
+2026-09-20 18:05:33 | INFO     | momentum.views.main_window | Navigated to page: habits
+2026-09-20 18:05:33 | INFO     | momentum.views.main_window | Navigated to page: calendar
+2026-09-20 18:05:33 | INFO     | momentum.views.main_window | Navigated to page: pomodoro
+2026-09-20 18:05:33 | INFO     | momentum.views.main_window | Navigated to page: study
+2026-09-20 18:05:33 | INFO     | momentum.views.main_window | Navigated to page: statistics
+2026-09-20 18:05:33 | INFO     | momentum.views.main_window | Navigated to page: goals
+2026-09-20 18:05:33 | INFO     | momentum.views.main_window | Navigated to page: projects
+2026-09-20 18:05:33 | INFO     | momentum.views.main_window | Navigated to page: focus
+2026-09-20 18:05:33 | INFO     | momentum.views.main_window | Navigated to page: settings
+2026-09-20 18:05:39 | INFO     | momentum.database.db_manager | Connected to database at /home/claude/momentum/data/momentum.db
+2026-09-20 18:05:40 | INFO     | momentum.database.db_manager | Schema initialized/verified.
+2026-09-20 18:05:45 | INFO     | momentum.database.db_manager | Connected to database at /home/claude/momentum/data/momentum.db
+2026-09-20 18:05:45 | INFO     | momentum.database.db_manager | Schema initialized/verified.
+2026-09-20 18:05:45 | INFO     | momentum.services.routine_service | Routine item 2 marked complete for 2026-09-20
+2026-09-20 18:05:45 | INFO     | momentum.services.routine_service | Routine item 2 marked incomplete for 2026-09-20
+2026-09-20 18:05:49 | INFO     | momentum.database.db_manager | Connected to database at /home/claude/momentum/data/momentum.db
+2026-09-20 18:05:49 | INFO     | momentum.database.db_manager | Schema initialized/verified.
+2026-09-21 05:09:00 | INFO     | momentum.database.db_manager | Connected to database at /tmp/m5/momentum_final/data/momentum.db
+2026-09-21 05:09:00 | INFO     | momentum.database.db_manager | Schema initialized/verified.
+2026-09-21 05:09:00 | INFO     | momentum.services.habit_service | Habit 1 marked complete for 2026-09-21
+2026-09-21 05:09:00 | INFO     | momentum.controllers.habit_controller | Habit 1 toggled → True (XP +15)
+2026-09-21 05:09:00 | INFO     | momentum.services.habit_service | Habit 1 marked incomplete for 2026-09-21
+2026-09-21 05:09:00 | INFO     | momentum.controllers.habit_controller | Habit 1 toggled → False (XP -15)
+2026-09-21 05:09:08 | INFO     | momentum.database.db_manager | Connected to database at /tmp/m5/momentum_final/data/momentum.db
+2026-09-21 05:09:08 | INFO     | momentum.database.db_manager | Schema initialized/verified.
+2026-09-21 12:50:08 | INFO     | momentum.database.db_manager | Connected to database at D:\momentum App\Momentum_All_Features_v1_QA_FIXED\momentum_final\data\momentum.db
+2026-09-21 12:50:08 | INFO     | momentum.database.db_manager | Schema initialized/verified.
+2026-09-21 12:50:08 | INFO     | momentum.main | Momentum starting up.
+2026-09-21 12:50:10 | INFO     | momentum.views.dashboard_view | DashboardView initialized.
+2026-09-21 12:50:10 | INFO     | momentum.views.main_window | Navigated to page: dashboard
+2026-09-21 12:50:10 | INFO     | momentum.views.main_window | MainWindow initialized.
+2026-09-21 12:50:17 | INFO     | momentum.views.main_window | Navigated to page: routine
+2026-09-21 12:50:19 | INFO     | momentum.views.habit_view | HabitView initialized.
+2026-09-21 12:50:19 | INFO     | momentum.views.main_window | Navigated to page: habits
+2026-09-21 12:50:20 | INFO     | momentum.views.main_window | Navigated to page: calendar
+2026-09-21 12:50:38 | INFO     | momentum.views.main_window | Navigated to page: study
+2026-09-21 12:50:40 | INFO     | momentum.views.main_window | Navigated to page: statistics
+2026-09-21 12:50:41 | INFO     | momentum.views.main_window | Navigated to page: goals
+2026-09-21 12:50:42 | INFO     | momentum.views.main_window | Navigated to page: projects
+2026-09-21 12:50:43 | INFO     | momentum.views.main_window | Navigated to page: focus
+2026-09-21 12:50:44 | INFO     | momentum.views.main_window | Navigated to page: settings
+2026-09-21 12:50:47 | INFO     | momentum.main | Momentum shut down cleanly.
+2026-09-21 12:52:43 | INFO     | momentum.database.db_manager | Connected to database at D:\momentum App\Momentum_All_Features_v1_QA_FIXED\momentum_final\data\momentum.db
+2026-09-21 12:52:43 | INFO     | momentum.database.db_manager | Schema initialized/verified.
+2026-09-21 12:52:43 | INFO     | momentum.main | Momentum starting up.
+2026-09-21 12:52:44 | INFO     | momentum.views.dashboard_view | DashboardView initialized.
+2026-09-21 12:52:44 | INFO     | momentum.views.main_window | Navigated to page: dashboard
+2026-09-21 12:52:44 | INFO     | momentum.views.main_window | MainWindow initialized.
+2026-09-21 12:52:55 | INFO     | momentum.main | Momentum shut down cleanly.
+2026-09-21 12:54:45 | INFO     | momentum.database.db_manager | Connected to database at D:\momentum App\Momentum_All_Features_v1_QA_FIXED\momentum_final\data\momentum.db
+2026-09-21 12:54:45 | INFO     | momentum.database.db_manager | Schema initialized/verified.
+2026-09-21 12:54:45 | INFO     | momentum.main | Momentum starting up.
+2026-09-21 12:54:46 | INFO     | momentum.views.dashboard_view | DashboardView initialized.
+2026-09-21 12:54:46 | INFO     | momentum.views.main_window | Navigated to page: dashboard
+2026-09-21 12:54:46 | INFO     | momentum.views.main_window | MainWindow initialized.
+2026-09-21 12:57:20 | INFO     | momentum.main | Momentum shut down cleanly.
+2026-09-21 12:59:02 | INFO     | momentum.database.db_manager | Connected to database at D:\momentum App\Momentum_All_Features_v1_QA_FIXED\momentum_final\data\momentum.db
+2026-09-21 12:59:02 | INFO     | momentum.database.db_manager | Schema initialized/verified.
+2026-09-21 12:59:02 | INFO     | momentum.main | Momentum starting up.
+2026-09-21 12:59:03 | INFO     | momentum.views.dashboard_view | DashboardView initialized.
+2026-09-21 12:59:03 | INFO     | momentum.views.main_window | Navigated to page: dashboard
+2026-09-21 12:59:03 | INFO     | momentum.views.main_window | MainWindow initialized.
+2026-09-21 12:59:06 | INFO     | momentum.views.main_window | Navigated to page: pomodoro
+2026-09-21 12:59:09 | INFO     | momentum.main | Momentum shut down cleanly.
+2026-09-21 13:12:53 | INFO     | momentum.database.db_manager | Connected to database at C:\Users\HP\Downloads\Momentum_UIUX_Polished\momentum_final\data\momentum.db
+2026-09-21 13:12:53 | INFO     | momentum.database.db_manager | Schema initialized/verified.
+2026-09-21 13:12:53 | INFO     | momentum.main | Momentum starting up.
+2026-09-21 13:12:54 | INFO     | momentum.views.dashboard_view | DashboardView initialized.
+2026-09-21 13:12:54 | INFO     | momentum.views.main_window | Navigated to page: dashboard
+2026-09-21 13:12:54 | INFO     | momentum.views.main_window | MainWindow initialized.
+2026-09-21 13:13:00 | INFO     | momentum.views.main_window | Navigated to page: routine
+2026-09-21 13:13:01 | INFO     | momentum.views.habit_view | HabitView initialized.
+2026-09-21 13:13:01 | INFO     | momentum.views.main_window | Navigated to page: habits
+2026-09-21 13:13:03 | INFO     | momentum.views.main_window | Navigated to page: calendar
+2026-09-21 13:13:05 | INFO     | momentum.views.main_window | Navigated to page: pomodoro
+2026-09-21 13:13:06 | INFO     | momentum.views.main_window | Navigated to page: study
+2026-09-21 13:13:07 | INFO     | momentum.views.main_window | Navigated to page: statistics
+2026-09-21 13:13:08 | INFO     | momentum.views.main_window | Navigated to page: goals
+2026-09-21 13:13:09 | INFO     | momentum.views.main_window | Navigated to page: projects
+2026-09-21 13:13:10 | INFO     | momentum.views.main_window | Navigated to page: focus
+2026-09-21 13:13:17 | INFO     | momentum.main | Momentum shut down cleanly.
+2026-09-21 07:29:07 | INFO     | momentum.database.db_manager | Connected to database at /home/claude/momentum/Momentum_UIUX_Polished/momentum_final/data/momentum.db
+2026-09-21 07:29:07 | INFO     | momentum.database.db_manager | Schema initialized/verified.
+2026-09-21 07:29:08 | INFO     | momentum.views.dashboard_view | DashboardView initialized.
+2026-09-21 07:29:08 | INFO     | momentum.views.main_window | Navigated to page: dashboard
+2026-09-21 07:29:08 | INFO     | momentum.views.main_window | MainWindow initialized.
+2026-09-21 07:29:08 | INFO     | momentum.views.dashboard_view | DashboardView initialized.
+2026-09-21 07:29:08 | INFO     | momentum.views.main_window | Navigated to page: dashboard
+2026-09-21 07:29:08 | INFO     | momentum.views.main_window | Navigated to page: routine
+2026-09-21 07:29:08 | INFO     | momentum.views.habit_view | HabitView initialized.
+2026-09-21 07:29:08 | INFO     | momentum.views.main_window | Navigated to page: habits
+2026-09-21 07:29:08 | INFO     | momentum.views.main_window | Navigated to page: calendar
+2026-09-21 07:29:08 | INFO     | momentum.views.main_window | Navigated to page: pomodoro
+2026-09-21 07:29:08 | INFO     | momentum.views.main_window | Navigated to page: study
+2026-09-21 07:29:09 | INFO     | momentum.views.main_window | Navigated to page: statistics
+2026-09-21 07:29:09 | INFO     | momentum.views.main_window | Navigated to page: goals
+2026-09-21 07:29:09 | INFO     | momentum.views.main_window | Navigated to page: projects
+2026-09-21 07:29:09 | INFO     | momentum.views.main_window | Navigated to page: focus
+2026-09-21 07:29:22 | INFO     | momentum.database.db_manager | Connected to database at /home/claude/momentum/Momentum_UIUX_Polished/momentum_final/data/momentum.db
+2026-09-21 07:29:22 | INFO     | momentum.database.db_manager | Schema initialized/verified.
+2026-09-21 07:29:23 | INFO     | momentum.views.dashboard_view | DashboardView initialized.
+2026-09-21 07:29:23 | INFO     | momentum.views.main_window | Navigated to page: dashboard
+2026-09-21 07:29:23 | INFO     | momentum.views.main_window | MainWindow initialized.
+2026-09-21 07:29:23 | INFO     | momentum.views.dashboard_view | DashboardView initialized.
+2026-09-21 07:29:23 | INFO     | momentum.views.main_window | Navigated to page: dashboard
+2026-09-21 07:29:23 | INFO     | momentum.views.main_window | Navigated to page: routine
+2026-09-21 07:29:23 | INFO     | momentum.views.habit_view | HabitView initialized.
+2026-09-21 07:29:23 | INFO     | momentum.views.main_window | Navigated to page: habits
+2026-09-21 07:29:23 | INFO     | momentum.views.main_window | Navigated to page: calendar
+2026-09-21 07:29:23 | INFO     | momentum.views.main_window | Navigated to page: pomodoro
+2026-09-21 07:29:23 | INFO     | momentum.views.main_window | Navigated to page: study
+2026-09-21 07:29:23 | INFO     | momentum.views.main_window | Navigated to page: statistics
+2026-09-21 07:29:24 | INFO     | momentum.views.main_window | Navigated to page: goals
+2026-09-21 07:29:24 | INFO     | momentum.views.main_window | Navigated to page: projects
+2026-09-21 07:29:24 | INFO     | momentum.views.main_window | Navigated to page: focus
+2026-09-21 07:29:24 | INFO     | momentum.views.main_window | Navigated to page: settings
+2026-09-21 07:29:36 | INFO     | momentum.database.db_manager | Connected to database at /home/claude/momentum/Momentum_UIUX_Polished/momentum_final/data/momentum.db
+2026-09-21 07:29:36 | INFO     | momentum.database.db_manager | Schema initialized/verified.
+2026-09-21 07:29:37 | INFO     | momentum.views.dashboard_view | DashboardView initialized.
+2026-09-21 07:29:37 | INFO     | momentum.views.main_window | Navigated to page: dashboard
+2026-09-21 07:29:37 | INFO     | momentum.views.main_window | MainWindow initialized.
+2026-09-21 07:29:37 | INFO     | momentum.views.main_window | Navigated to page: pomodoro
+2026-09-21 07:29:38 | INFO     | momentum.views.dashboard_view | DashboardView initialized.
+2026-09-21 07:29:38 | INFO     | momentum.views.main_window | Navigated to page: dashboard
+2026-09-21 07:29:41 | INFO     | momentum.views.main_window | Navigated to page: focus
+2026-09-21 07:29:45 | INFO     | momentum.views.main_window | Navigated to page: statistics
+2026-09-21 07:29:47 | INFO     | momentum.views.habit_view | HabitView initialized.
+2026-09-21 07:29:47 | INFO     | momentum.views.main_window | Navigated to page: habits
+2026-09-21 07:29:47 | INFO     | momentum.services.habit_service | Added new habit: QA Temp Habit
+2026-09-21 07:29:48 | INFO     | momentum.views.dashboard_view | DashboardView initialized.
+2026-09-21 07:29:48 | INFO     | momentum.views.main_window | Navigated to page: dashboard
+2026-09-21 07:30:13 | INFO     | momentum.database.db_manager | Connected to database at /home/claude/momentum/Momentum_UIUX_Polished/momentum_final/data/momentum.db
+2026-09-21 07:30:13 | INFO     | momentum.database.db_manager | Schema initialized/verified.
+2026-09-21 07:30:13 | INFO     | momentum.views.dashboard_view | DashboardView initialized.
+2026-09-21 07:30:13 | INFO     | momentum.views.main_window | Navigated to page: dashboard
+2026-09-21 07:30:13 | INFO     | momentum.views.main_window | MainWindow initialized.
+2026-09-21 07:30:13 | INFO     | momentum.views.main_window | Navigated to page: pomodoro
+2026-09-21 07:30:15 | INFO     | momentum.views.dashboard_view | DashboardView initialized.
+2026-09-21 07:30:15 | INFO     | momentum.views.main_window | Navigated to page: dashboard
+2026-09-21 07:30:18 | INFO     | momentum.views.main_window | Navigated to page: focus
+2026-09-21 07:30:21 | INFO     | momentum.views.main_window | Navigated to page: statistics
+2026-09-21 07:30:24 | INFO     | momentum.views.habit_view | HabitView initialized.
+2026-09-21 07:30:24 | INFO     | momentum.views.main_window | Navigated to page: habits
+2026-09-21 07:30:24 | WARNING  | momentum.services.habit_service | Could not add habit 'QA Temp Habit' (duplicate or DB error)
+2026-09-21 07:30:24 | INFO     | momentum.views.dashboard_view | DashboardView initialized.
+2026-09-21 07:30:24 | INFO     | momentum.views.main_window | Navigated to page: dashboard
+2026-09-21 07:30:44 | INFO     | momentum.database.db_manager | Connected to database at /home/claude/momentum/Momentum_UIUX_Polished/momentum_final/data/momentum.db
+2026-09-21 07:30:44 | INFO     | momentum.database.db_manager | Schema initialized/verified.
+2026-09-21 07:30:44 | INFO     | momentum.services.habit_service | Habit 1 marked complete for 2026-09-21
+2026-09-21 07:30:44 | INFO     | momentum.controllers.habit_controller | Habit 1 toggled → True (XP +15)
+2026-09-21 07:30:44 | INFO     | momentum.services.habit_service | Habit 1 marked incomplete for 2026-09-21
+2026-09-21 07:30:44 | INFO     | momentum.controllers.habit_controller | Habit 1 toggled → False (XP -15)
+2026-09-21 07:30:44 | INFO     | momentum.services.routine_service | Routine item 1 marked complete for 2026-09-21
+2026-09-21 07:30:44 | INFO     | momentum.services.routine_service | Routine item 1 marked incomplete for 2026-09-21
+2026-09-21 07:30:44 | INFO     | momentum.services.routine_service | Routine item 1 marked complete for 2026-09-21
+2026-09-21 07:30:44 | INFO     | momentum.services.routine_service | Routine item 1 marked incomplete for 2026-09-21
+2026-09-21 07:30:44 | INFO     | momentum.services.habit_service | Habit 1 marked complete for 2026-09-21
+2026-09-21 07:30:44 | INFO     | momentum.controllers.habit_controller | Habit 1 toggled → True (XP +15)
+2026-09-21 07:30:44 | INFO     | momentum.services.habit_service | Habit 1 marked incomplete for 2026-09-21
+2026-09-21 07:30:44 | INFO     | momentum.controllers.habit_controller | Habit 1 toggled → False (XP -15)
+2026-09-21 07:30:44 | INFO     | momentum.services.routine_service | Routine item 1 marked complete for 2026-09-21
+2026-09-21 07:30:44 | INFO     | momentum.services.routine_service | Routine item 1 marked incomplete for 2026-09-21
+2026-09-21 07:30:44 | INFO     | momentum.services.habit_service | Habit 1 marked complete for 2026-09-21
+2026-09-21 07:30:44 | INFO     | momentum.controllers.habit_controller | Habit 1 toggled → True (XP +15)
+2026-09-21 07:30:44 | INFO     | momentum.services.habit_service | Habit 1 marked incomplete for 2026-09-21
+2026-09-21 07:30:44 | INFO     | momentum.controllers.habit_controller | Habit 1 toggled → False (XP -15)
+2026-09-21 07:30:44 | INFO     | momentum.services.routine_service | Routine item 1 marked complete for 2026-09-21
+2026-09-21 07:30:44 | INFO     | momentum.services.routine_service | Routine item 1 marked incomplete for 2026-09-21
+2026-09-21 07:30:44 | INFO     | momentum.services.habit_service | Habit 1 marked complete for 2026-09-21
+2026-09-21 07:30:44 | INFO     | momentum.controllers.habit_controller | Habit 1 toggled → True (XP +15)
+2026-09-21 07:30:44 | INFO     | momentum.services.habit_service | Habit 1 marked incomplete for 2026-09-21
+2026-09-21 07:30:44 | INFO     | momentum.controllers.habit_controller | Habit 1 toggled → False (XP -15)
+2026-09-21 07:30:44 | INFO     | momentum.services.routine_service | Routine item 1 marked complete for 2026-09-21
+2026-09-21 07:30:44 | INFO     | momentum.services.routine_service | Routine item 1 marked incomplete for 2026-09-21
+2026-09-21 07:30:44 | INFO     | momentum.services.habit_service | Habit 1 marked complete for 2026-09-21
+2026-09-21 07:30:44 | INFO     | momentum.controllers.habit_controller | Habit 1 toggled → True (XP +15)
+2026-09-21 07:30:44 | INFO     | momentum.services.habit_service | Habit 1 marked incomplete for 2026-09-21
+2026-09-21 07:30:44 | INFO     | momentum.controllers.habit_controller | Habit 1 toggled → False (XP -15)
+2026-09-21 07:30:44 | INFO     | momentum.services.routine_service | Routine item 1 marked complete for 2026-09-21
+2026-09-21 07:30:44 | INFO     | momentum.services.routine_service | Routine item 1 marked incomplete for 2026-09-21
+2026-09-21 07:30:44 | INFO     | momentum.services.habit_service | Habit 1 marked complete for 2026-09-21
+2026-09-21 07:30:44 | INFO     | momentum.controllers.habit_controller | Habit 1 toggled → True (XP +15)
+2026-09-21 07:30:44 | INFO     | momentum.services.habit_service | Habit 1 marked incomplete for 2026-09-21
+2026-09-21 07:30:44 | INFO     | momentum.controllers.habit_controller | Habit 1 toggled → False (XP -15)
+2026-09-21 07:30:44 | INFO     | momentum.services.routine_service | Routine item 1 marked complete for 2026-09-21
+2026-09-21 07:30:44 | INFO     | momentum.services.routine_service | Routine item 1 marked incomplete for 2026-09-21
+2026-09-21 07:30:44 | INFO     | momentum.services.habit_service | Habit 1 marked complete for 2026-09-21
+2026-09-21 07:30:44 | INFO     | momentum.controllers.habit_controller | Habit 1 toggled → True (XP +15)
+2026-09-21 07:30:44 | INFO     | momentum.services.habit_service | Habit 1 marked incomplete for 2026-09-21
+2026-09-21 07:30:44 | INFO     | momentum.controllers.habit_controller | Habit 1 toggled → False (XP -15)
+2026-09-21 07:30:44 | INFO     | momentum.services.routine_service | Routine item 1 marked complete for 2026-09-21
+2026-09-21 07:30:44 | INFO     | momentum.services.routine_service | Routine item 1 marked incomplete for 2026-09-21
+2026-09-21 07:30:44 | INFO     | momentum.database.db_manager | Backup created at /home/claude/momentum/Momentum_UIUX_Polished/momentum_final/backups/momentum_2026-09-21_073044.db
+2026-09-21 07:31:00 | INFO     | momentum.database.db_manager | Connected to database at /home/claude/momentum/Momentum_UIUX_Polished/momentum_final/data/momentum.db
+2026-09-21 07:31:00 | INFO     | momentum.database.db_manager | Schema initialized/verified.
+2026-09-21 07:31:00 | INFO     | momentum.views.dashboard_view | DashboardView initialized.
+2026-09-21 07:31:00 | INFO     | momentum.views.main_window | Navigated to page: dashboard
+2026-09-21 07:31:00 | INFO     | momentum.views.main_window | MainWindow initialized.
+2026-09-21 07:31:00 | INFO     | momentum.views.main_window | Navigated to page: routine
+2026-09-21 07:31:00 | INFO     | momentum.services.routine_service | Routine item 1 marked incomplete for 2026-09-21
+2026-09-21 07:31:08 | INFO     | momentum.database.db_manager | Connected to database at /home/claude/momentum/Momentum_UIUX_Polished/momentum_final/data/momentum.db
+2026-09-21 07:31:08 | INFO     | momentum.database.db_manager | Schema initialized/verified.
+2026-09-21 07:31:08 | INFO     | momentum.views.dashboard_view | DashboardView initialized.
+2026-09-21 07:31:08 | INFO     | momentum.views.main_window | Navigated to page: dashboard
+2026-09-21 07:31:08 | INFO     | momentum.views.main_window | MainWindow initialized.
+2026-09-21 07:31:09 | INFO     | momentum.views.main_window | Navigated to page: routine
+2026-09-21 07:31:09 | INFO     | momentum.services.routine_service | Routine item 1 marked complete for 2026-09-21
+2026-09-21 07:31:18 | INFO     | momentum.database.db_manager | Connected to database at /home/claude/momentum/Momentum_UIUX_Polished/momentum_final/data/momentum.db
+2026-09-21 07:31:18 | INFO     | momentum.database.db_manager | Schema initialized/verified.
+2026-09-21 07:31:18 | INFO     | momentum.views.dashboard_view | DashboardView initialized.
+2026-09-21 07:31:18 | INFO     | momentum.views.main_window | Navigated to page: dashboard
+2026-09-21 07:31:18 | INFO     | momentum.views.main_window | MainWindow initialized.
+2026-09-21 07:31:18 | INFO     | momentum.views.main_window | Navigated to page: routine
+2026-09-21 07:31:18 | INFO     | momentum.services.routine_service | Routine item 1 marked incomplete for 2026-09-21
+2026-09-21 07:31:18 | INFO     | momentum.services.routine_service | Routine item 1 marked complete for 2026-09-21
+2026-09-21 07:31:18 | INFO     | momentum.services.routine_service | Routine item 1 marked incomplete for 2026-09-21
+2026-09-21 07:31:18 | INFO     | momentum.views.dashboard_view | DashboardView initialized.
+2026-09-21 07:31:18 | INFO     | momentum.views.main_window | Navigated to page: dashboard
+2026-09-21 07:31:46 | INFO     | momentum.database.db_manager | Connected to database at /home/claude/momentum/Momentum_UIUX_Polished/momentum_final/data/momentum.db
+2026-09-21 07:31:46 | INFO     | momentum.database.db_manager | Schema initialized/verified.
+2026-09-21 07:31:46 | INFO     | momentum.views.dashboard_view | DashboardView initialized.
+2026-09-21 07:31:46 | INFO     | momentum.views.main_window | Navigated to page: dashboard
+2026-09-21 07:31:46 | INFO     | momentum.views.main_window | MainWindow initialized.
+2026-09-21 07:31:47 | INFO     | momentum.views.main_window | Navigated to page: goals
+2026-09-21 07:32:11 | INFO     | momentum.database.db_manager | Connected to database at /home/claude/momentum/Momentum_UIUX_Polished/momentum_final/data/momentum.db
+2026-09-21 07:32:11 | INFO     | momentum.database.db_manager | Schema initialized/verified.
+2026-09-21 07:32:11 | INFO     | momentum.views.dashboard_view | DashboardView initialized.
+2026-09-21 07:32:11 | INFO     | momentum.views.main_window | Navigated to page: dashboard
+2026-09-21 07:32:11 | INFO     | momentum.views.main_window | MainWindow initialized.
+2026-09-21 07:32:11 | INFO     | momentum.views.main_window | Navigated to page: goals
+2026-09-21 07:32:30 | INFO     | momentum.database.db_manager | Connected to database at /home/claude/momentum/Momentum_UIUX_Polished/momentum_final/data/momentum.db
+2026-09-21 07:32:30 | INFO     | momentum.database.db_manager | Schema initialized/verified.
+2026-09-21 07:32:30 | INFO     | momentum.views.dashboard_view | DashboardView initialized.
+2026-09-21 07:32:30 | INFO     | momentum.views.main_window | Navigated to page: dashboard
+2026-09-21 07:32:30 | INFO     | momentum.views.main_window | MainWindow initialized.
+2026-09-21 07:32:30 | INFO     | momentum.views.main_window | Navigated to page: goals
+2026-09-21 07:32:31 | INFO     | momentum.views.main_window | Navigated to page: projects
+2026-09-21 07:32:32 | INFO     | momentum.views.main_window | Navigated to page: study
+2026-09-21 07:32:32 | INFO     | momentum.views.main_window | Navigated to page: calendar
+2026-09-21 07:32:32 | INFO     | momentum.views.main_window | Navigated to page: pomodoro
+2026-09-21 07:32:35 | INFO     | momentum.views.main_window | Navigated to page: statistics
+2026-09-21 07:32:47 | INFO     | momentum.database.db_manager | Connected to database at /home/claude/momentum/Momentum_UIUX_Polished/momentum_final/data/momentum.db
+2026-09-21 07:32:47 | INFO     | momentum.database.db_manager | Schema initialized/verified.
+2026-09-21 07:32:47 | INFO     | momentum.services.habit_service | Seeded default habits from config.
+2026-09-21 07:32:47 | INFO     | momentum.services.routine_service | Seeded default routine items from config.
+2026-09-21 07:32:47 | INFO     | momentum.views.dashboard_view | DashboardView initialized.
+2026-09-21 07:32:47 | INFO     | momentum.views.main_window | Navigated to page: dashboard
+2026-09-21 07:32:47 | INFO     | momentum.views.main_window | MainWindow initialized.
+2026-09-21 07:32:47 | INFO     | momentum.views.dashboard_view | DashboardView initialized.
+2026-09-21 07:32:47 | INFO     | momentum.views.main_window | Navigated to page: dashboard
+2026-09-21 07:32:48 | INFO     | momentum.views.main_window | Navigated to page: routine
+2026-09-21 07:32:48 | INFO     | momentum.views.habit_view | HabitView initialized.
+2026-09-21 07:32:48 | INFO     | momentum.views.main_window | Navigated to page: habits
+2026-09-21 07:32:48 | INFO     | momentum.views.main_window | Navigated to page: calendar
+2026-09-21 07:32:48 | INFO     | momentum.views.main_window | Navigated to page: pomodoro
+2026-09-21 07:32:48 | INFO     | momentum.views.main_window | Navigated to page: study
+2026-09-21 07:32:48 | INFO     | momentum.views.main_window | Navigated to page: statistics
+2026-09-21 07:32:48 | INFO     | momentum.views.main_window | Navigated to page: goals
+2026-09-21 07:32:48 | INFO     | momentum.views.main_window | Navigated to page: projects
+2026-09-21 07:32:48 | INFO     | momentum.views.main_window | Navigated to page: focus
+2026-09-21 07:32:48 | INFO     | momentum.views.main_window | Navigated to page: settings
+2026-09-21 07:32:48 | INFO     | momentum.views.main_window | Navigated to page: statistics
+2026-09-21 07:32:48 | INFO     | momentum.views.dashboard_view | DashboardView initialized.
+2026-09-21 07:32:48 | INFO     | momentum.views.main_window | Navigated to page: dashboard
+2026-09-21 07:33:07 | INFO     | momentum.database.db_manager | Connected to database at /home/claude/momentum/Momentum_UIUX_Polished/momentum_final/data/momentum.db
+2026-09-21 07:33:07 | INFO     | momentum.database.db_manager | Schema initialized/verified.
+2026-09-21 07:33:08 | INFO     | momentum.views.dashboard_view | DashboardView initialized.
+2026-09-21 07:33:08 | INFO     | momentum.views.main_window | Navigated to page: dashboard
+2026-09-21 07:33:08 | INFO     | momentum.views.main_window | MainWindow initialized.
+2026-09-21 07:33:08 | INFO     | momentum.views.habit_view | HabitView initialized.
+2026-09-21 07:33:08 | INFO     | momentum.views.main_window | Navigated to page: habits
+2026-09-21 07:33:08 | INFO     | momentum.services.habit_service | Added new habit: QA Habit One
+2026-09-21 07:33:08 | WARNING  | momentum.services.habit_service | Could not add habit 'QA Habit One' (duplicate or DB error)
+2026-09-21 07:33:08 | INFO     | momentum.services.habit_service | Habit 16 marked complete for 2026-09-21
+2026-09-21 07:33:08 | INFO     | momentum.controllers.habit_controller | Habit 16 toggled → True (XP +15)
+2026-09-21 07:33:08 | INFO     | momentum.services.habit_service | Habit 16 marked incomplete for 2026-09-21
+2026-09-21 07:33:08 | INFO     | momentum.controllers.habit_controller | Habit 16 toggled → False (XP -15)
+2026-09-21 07:33:08 | INFO     | momentum.services.habit_service | Habit 16 deactivated
+2026-09-21 07:33:08 | INFO     | momentum.services.habit_service | Habit 16 reactivated
+2026-09-21 07:33:18 | INFO     | momentum.database.db_manager | Connected to database at /home/claude/momentum/Momentum_UIUX_Polished/momentum_final/data/momentum.db
+2026-09-21 07:33:18 | INFO     | momentum.database.db_manager | Schema initialized/verified.
+2026-09-21 07:33:18 | INFO     | momentum.views.dashboard_view | DashboardView initialized.
+2026-09-21 07:33:18 | INFO     | momentum.views.main_window | Navigated to page: dashboard
+2026-09-21 07:33:18 | INFO     | momentum.views.main_window | MainWindow initialized.
+2026-09-21 07:33:18 | INFO     | momentum.views.dashboard_view | DashboardView initialized.
+2026-09-21 07:33:18 | INFO     | momentum.views.main_window | Navigated to page: dashboard
+2026-09-21 07:33:19 | INFO     | momentum.views.main_window | Navigated to page: routine
+2026-09-21 07:33:19 | INFO     | momentum.views.habit_view | HabitView initialized.
+2026-09-21 07:33:19 | INFO     | momentum.views.main_window | Navigated to page: habits
+2026-09-21 07:33:19 | INFO     | momentum.views.main_window | Navigated to page: calendar
+2026-09-21 07:33:19 | INFO     | momentum.views.main_window | Navigated to page: pomodoro
+2026-09-21 07:33:19 | INFO     | momentum.views.main_window | Navigated to page: study
+2026-09-21 07:33:20 | INFO     | momentum.views.main_window | Navigated to page: statistics
+2026-09-21 07:33:20 | INFO     | momentum.views.main_window | Navigated to page: goals
+2026-09-21 07:33:20 | INFO     | momentum.views.main_window | Navigated to page: projects
+2026-09-21 07:33:20 | INFO     | momentum.views.main_window | Navigated to page: focus
+2026-09-21 07:33:20 | INFO     | momentum.views.main_window | Navigated to page: settings
+2026-09-21 07:33:21 | INFO     | momentum.views.dashboard_view | DashboardView initialized.
+2026-09-21 07:33:21 | INFO     | momentum.views.main_window | Navigated to page: dashboard
+2026-09-21 07:33:21 | INFO     | momentum.views.main_window | Navigated to page: routine
+2026-09-21 07:33:21 | INFO     | momentum.views.habit_view | HabitView initialized.
+2026-09-21 07:33:21 | INFO     | momentum.views.main_window | Navigated to page: habits
+2026-09-21 07:33:21 | INFO     | momentum.views.main_window | Navigated to page: calendar
+2026-09-21 07:33:22 | INFO     | momentum.views.main_window | Navigated to page: pomodoro
+2026-09-21 07:33:22 | INFO     | momentum.views.main_window | Navigated to page: study
+2026-09-21 07:33:22 | INFO     | momentum.views.main_window | Navigated to page: statistics
+2026-09-21 07:33:22 | INFO     | momentum.views.main_window | Navigated to page: goals
+2026-09-21 07:33:22 | INFO     | momentum.views.main_window | Navigated to page: projects
+2026-09-21 07:33:22 | INFO     | momentum.views.main_window | Navigated to page: focus
+2026-09-21 07:33:23 | INFO     | momentum.views.main_window | Navigated to page: settings
+2026-09-21 07:33:23 | INFO     | momentum.views.dashboard_view | DashboardView initialized.
+2026-09-21 07:33:23 | INFO     | momentum.views.main_window | Navigated to page: dashboard
+2026-09-21 07:33:23 | INFO     | momentum.views.main_window | Navigated to page: routine
+2026-09-21 07:33:24 | INFO     | momentum.views.habit_view | HabitView initialized.
+2026-09-21 07:33:24 | INFO     | momentum.views.main_window | Navigated to page: habits
+2026-09-21 07:33:24 | INFO     | momentum.views.main_window | Navigated to page: calendar
+2026-09-21 07:33:24 | INFO     | momentum.views.main_window | Navigated to page: pomodoro
+2026-09-21 07:33:24 | INFO     | momentum.views.main_window | Navigated to page: study
+2026-09-21 07:33:24 | INFO     | momentum.views.main_window | Navigated to page: statistics
+2026-09-21 07:33:25 | INFO     | momentum.views.main_window | Navigated to page: goals
+2026-09-21 07:33:25 | INFO     | momentum.views.main_window | Navigated to page: projects
+2026-09-21 07:33:25 | INFO     | momentum.views.main_window | Navigated to page: focus
+2026-09-21 07:33:25 | INFO     | momentum.views.main_window | Navigated to page: settings
+2026-09-21 07:33:26 | INFO     | momentum.views.dashboard_view | DashboardView initialized.
+2026-09-21 07:33:26 | INFO     | momentum.views.main_window | Navigated to page: dashboard
+2026-09-21 07:33:26 | INFO     | momentum.views.main_window | Navigated to page: routine
+2026-09-21 07:33:26 | INFO     | momentum.views.habit_view | HabitView initialized.
+2026-09-21 07:33:26 | INFO     | momentum.views.main_window | Navigated to page: habits
+2026-09-21 07:33:26 | INFO     | momentum.views.main_window | Navigated to page: calendar
+2026-09-21 07:33:27 | INFO     | momentum.views.main_window | Navigated to page: pomodoro
+2026-09-21 07:33:27 | INFO     | momentum.views.main_window | Navigated to page: study
+2026-09-21 07:33:27 | INFO     | momentum.views.main_window | Navigated to page: statistics
+2026-09-21 07:33:27 | INFO     | momentum.views.main_window | Navigated to page: goals
+2026-09-21 07:33:27 | INFO     | momentum.views.main_window | Navigated to page: projects
+2026-09-21 07:33:27 | INFO     | momentum.views.main_window | Navigated to page: focus
+2026-09-21 07:33:28 | INFO     | momentum.views.main_window | Navigated to page: settings
+2026-09-21 07:33:44 | INFO     | momentum.database.db_manager | Connected to database at /home/claude/momentum/Momentum_UIUX_Polished/momentum_final/data/momentum.db
+2026-09-21 07:33:44 | INFO     | momentum.database.db_manager | Schema initialized/verified.
+2026-09-21 07:33:44 | INFO     | momentum.views.dashboard_view | DashboardView initialized.
+2026-09-21 07:33:44 | INFO     | momentum.views.main_window | Navigated to page: dashboard
+2026-09-21 07:33:44 | INFO     | momentum.views.main_window | MainWindow initialized.
+2026-09-21 07:33:44 | INFO     | momentum.views.dashboard_view | DashboardView initialized.
+2026-09-21 07:33:44 | INFO     | momentum.views.main_window | Navigated to page: dashboard
+2026-09-21 07:33:45 | INFO     | momentum.views.habit_view | HabitView initialized.
+2026-09-21 07:33:45 | INFO     | momentum.views.main_window | Navigated to page: habits
+2026-09-21 07:33:45 | INFO     | momentum.views.main_window | Navigated to page: settings
+2026-09-21 07:34:00 | INFO     | momentum.database.db_manager | Connected to database at /home/claude/momentum/Momentum_UIUX_Polished/momentum_final/data/momentum.db
+2026-09-21 07:34:00 | INFO     | momentum.database.db_manager | Schema initialized/verified.
+2026-09-21 07:34:00 | INFO     | momentum.views.dashboard_view | DashboardView initialized.
+2026-09-21 07:34:00 | INFO     | momentum.views.main_window | Navigated to page: dashboard
+2026-09-21 07:34:00 | INFO     | momentum.views.main_window | MainWindow initialized.
+2026-09-21 07:34:00 | INFO     | momentum.views.main_window | Navigated to page: study
+2026-09-21 07:34:00 | INFO     | momentum.views.main_window | Navigated to page: goals
+2026-09-21 07:34:00 | INFO     | momentum.views.main_window | Navigated to page: routine
+2026-09-21 07:34:00 | INFO     | momentum.services.routine_service | Routine item 11 marked complete for 2026-09-21
+2026-09-21 07:34:00 | INFO     | momentum.database.db_manager | Connected to database at /home/claude/momentum/Momentum_UIUX_Polished/momentum_final/data/momentum.db
+2026-09-21 07:34:00 | INFO     | momentum.database.db_manager | Schema initialized/verified.
+2026-09-21 07:34:01 | INFO     | momentum.views.dashboard_view | DashboardView initialized.
+2026-09-21 07:34:01 | INFO     | momentum.views.main_window | Navigated to page: dashboard
+2026-09-21 07:34:01 | INFO     | momentum.views.main_window | MainWindow initialized.
+2026-09-21 07:34:46 | INFO     | momentum.database.db_manager | Connected to database at /home/claude/momentum/Momentum_UIUX_Polished/momentum_final/data/momentum.db
+2026-09-21 07:34:46 | INFO     | momentum.database.db_manager | Schema initialized/verified.
+2026-09-21 07:34:46 | INFO     | momentum.views.dashboard_view | DashboardView initialized.
+2026-09-21 07:34:46 | INFO     | momentum.views.main_window | Navigated to page: dashboard
+2026-09-21 07:34:46 | INFO     | momentum.views.main_window | MainWindow initialized.
+2026-09-21 07:34:46 | INFO     | momentum.views.dashboard_view | DashboardView initialized.
+2026-09-21 07:34:46 | INFO     | momentum.views.main_window | Navigated to page: dashboard
+2026-09-21 07:34:47 | INFO     | momentum.views.main_window | Navigated to page: routine
+2026-09-21 07:34:47 | INFO     | momentum.views.habit_view | HabitView initialized.
+2026-09-21 07:34:47 | INFO     | momentum.views.main_window | Navigated to page: habits
+2026-09-21 07:34:47 | INFO     | momentum.views.main_window | Navigated to page: calendar
+2026-09-21 07:34:47 | INFO     | momentum.views.main_window | Navigated to page: pomodoro
+2026-09-21 07:34:47 | INFO     | momentum.views.main_window | Navigated to page: study
+2026-09-21 07:34:47 | INFO     | momentum.views.main_window | Navigated to page: statistics
+2026-09-21 07:34:47 | INFO     | momentum.views.main_window | Navigated to page: goals
+2026-09-21 07:34:47 | INFO     | momentum.views.main_window | Navigated to page: projects
+2026-09-21 07:34:47 | INFO     | momentum.views.main_window | Navigated to page: focus
+2026-09-21 07:34:48 | INFO     | momentum.views.main_window | Navigated to page: settings
+2026-09-21 07:34:48 | INFO     | momentum.views.dashboard_view | DashboardView initialized.
+2026-09-21 07:34:48 | INFO     | momentum.views.main_window | Navigated to page: dashboard
+2026-09-21 07:34:48 | INFO     | momentum.views.main_window | Navigated to page: routine
+2026-09-21 07:34:48 | INFO     | momentum.views.habit_view | HabitView initialized.
+2026-09-21 07:34:48 | INFO     | momentum.views.main_window | Navigated to page: habits
+2026-09-21 07:34:48 | INFO     | momentum.views.main_window | Navigated to page: calendar
+2026-09-21 07:34:48 | INFO     | momentum.views.main_window | Navigated to page: pomodoro
+2026-09-21 07:34:48 | INFO     | momentum.views.main_window | Navigated to page: study
+2026-09-21 07:34:49 | INFO     | momentum.views.main_window | Navigated to page: statistics
+2026-09-21 07:34:49 | INFO     | momentum.views.main_window | Navigated to page: goals
+2026-09-21 07:34:49 | INFO     | momentum.views.main_window | Navigated to page: projects
+2026-09-21 07:34:49 | INFO     | momentum.views.main_window | Navigated to page: focus
+2026-09-21 07:34:49 | INFO     | momentum.views.main_window | Navigated to page: settings
+2026-09-21 07:35:04 | INFO     | momentum.database.db_manager | Connected to database at /home/claude/momentum/Momentum_UIUX_Polished/momentum_final/data/momentum.db
+2026-09-21 07:35:04 | INFO     | momentum.database.db_manager | Schema initialized/verified.
+2026-09-21 07:35:05 | INFO     | momentum.views.dashboard_view | DashboardView initialized.
+2026-09-21 07:35:05 | INFO     | momentum.views.main_window | Navigated to page: dashboard
+2026-09-21 07:35:05 | INFO     | momentum.views.main_window | MainWindow initialized.
+2026-09-21 07:35:06 | INFO     | momentum.views.dashboard_view | DashboardView initialized.
+2026-09-21 07:35:06 | INFO     | momentum.views.main_window | Navigated to page: dashboard
+2026-09-21 07:35:06 | INFO     | momentum.views.main_window | Navigated to page: routine
+2026-09-21 07:35:07 | INFO     | momentum.views.habit_view | HabitView initialized.
+2026-09-21 07:35:07 | INFO     | momentum.views.main_window | Navigated to page: habits
+2026-09-21 07:35:08 | INFO     | momentum.views.main_window | Navigated to page: calendar
+2026-09-21 07:35:08 | INFO     | momentum.views.main_window | Navigated to page: pomodoro
+2026-09-21 07:35:09 | INFO     | momentum.views.main_window | Navigated to page: study
+2026-09-21 07:35:09 | INFO     | momentum.views.main_window | Navigated to page: statistics
+2026-09-21 07:35:10 | INFO     | momentum.views.main_window | Navigated to page: goals
+2026-09-21 07:35:11 | INFO     | momentum.views.main_window | Navigated to page: projects
+2026-09-21 07:35:11 | INFO     | momentum.views.main_window | Navigated to page: focus
+2026-09-21 07:35:12 | INFO     | momentum.views.main_window | Navigated to page: settings
+2026-09-21 07:36:02 | INFO     | momentum.database.db_manager | Connected to database at /home/claude/momentum/Momentum_UIUX_Polished/momentum_final/data/momentum.db
+2026-09-21 07:36:02 | INFO     | momentum.database.db_manager | Schema initialized/verified.
+2026-09-21 07:36:02 | INFO     | momentum.views.dashboard_view | DashboardView initialized.
+2026-09-21 07:36:02 | INFO     | momentum.views.main_window | Navigated to page: dashboard
+2026-09-21 07:36:02 | INFO     | momentum.views.main_window | MainWindow initialized.
+2026-09-21 07:36:02 | INFO     | momentum.views.habit_view | HabitView initialized.
+2026-09-21 07:36:02 | INFO     | momentum.views.main_window | Navigated to page: habits
+2026-09-21 07:36:02 | INFO     | momentum.services.habit_service | Added new habit: Placeholder QA Habit
+2026-09-21 07:36:14 | INFO     | momentum.database.db_manager | Connected to database at /home/claude/momentum/Momentum_UIUX_Polished/momentum_final/data/momentum.db
+2026-09-21 07:36:14 | INFO     | momentum.database.db_manager | Schema initialized/verified.
+2026-09-21 07:36:14 | INFO     | momentum.views.dashboard_view | DashboardView initialized.
+2026-09-21 07:36:14 | INFO     | momentum.views.main_window | Navigated to page: dashboard
+2026-09-21 07:36:14 | INFO     | momentum.views.main_window | MainWindow initialized.
+2026-09-21 07:36:14 | INFO     | momentum.views.habit_view | HabitView initialized.
+2026-09-21 07:36:14 | INFO     | momentum.views.main_window | Navigated to page: habits
+2026-09-21 07:36:14 | INFO     | momentum.services.habit_service | Added new habit: Return Key QA
+2026-09-21 07:36:54 | INFO     | momentum.database.db_manager | Connected to database at /home/claude/momentum/Momentum_UIUX_Polished/momentum_final/data/momentum.db
+2026-09-21 07:36:54 | INFO     | momentum.database.db_manager | Schema initialized/verified.
+2026-09-21 07:36:54 | INFO     | momentum.views.dashboard_view | DashboardView initialized.
+2026-09-21 07:36:54 | INFO     | momentum.views.main_window | Navigated to page: dashboard
+2026-09-21 07:36:54 | INFO     | momentum.views.main_window | MainWindow initialized.
+2026-09-21 07:36:55 | INFO     | momentum.views.dashboard_view | DashboardView initialized.
+2026-09-21 07:36:55 | INFO     | momentum.views.main_window | Navigated to page: dashboard
+2026-09-21 07:36:55 | INFO     | momentum.views.main_window | Navigated to page: routine
+2026-09-21 07:36:55 | INFO     | momentum.views.habit_view | HabitView initialized.
+2026-09-21 07:36:55 | INFO     | momentum.views.main_window | Navigated to page: habits
+2026-09-21 07:36:55 | INFO     | momentum.views.main_window | Navigated to page: calendar
+2026-09-21 07:36:55 | INFO     | momentum.views.main_window | Navigated to page: pomodoro
+2026-09-21 07:36:55 | INFO     | momentum.views.main_window | Navigated to page: study
+2026-09-21 07:36:55 | INFO     | momentum.views.main_window | Navigated to page: statistics
+2026-09-21 07:36:55 | INFO     | momentum.views.main_window | Navigated to page: goals
+2026-09-21 07:36:55 | INFO     | momentum.views.main_window | Navigated to page: projects
+2026-09-21 07:36:55 | INFO     | momentum.views.main_window | Navigated to page: focus
+2026-09-21 07:36:55 | INFO     | momentum.views.main_window | Navigated to page: settings
